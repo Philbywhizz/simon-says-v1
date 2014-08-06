@@ -6,7 +6,7 @@
 
 #include "pitches.h"
 
-int speakerPin = 8; // The pin the speaker is on.
+int speakerPin = 4; // The pin the speaker is on.
 int startTune[] = {NOTE_C4, NOTE_F4, NOTE_C4, NOTE_F4, 
                    NOTE_C4, NOTE_F4, NOTE_C4, NOTE_F4, 
                    NOTE_G4, NOTE_F4, NOTE_E4, NOTE_F4, 
