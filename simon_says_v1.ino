@@ -24,7 +24,7 @@ int buttonState = 0; // button state checker
 int randomArray[100]; // store up to 100 inputs
 int inputArray[100];
 
-boolean buttonPin[] = {2, 3, 4, 5}; // Button pins
+boolean buttonPin[] = {8, 7, 6, 5}; // Button pins
 boolean ledPin[] = {9, 10, 11, 12}; // LED pins
 
 void setup()
